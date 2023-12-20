@@ -4,9 +4,12 @@
 
 - 👋 I am Mohammad Kmail
 - 🔭 I am a fresh graduate from AAUP
+<br />
 
-- ![Profile views](https://gpvc.arturio.dev/m-kmail)
-
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/m-kmail/count.svg"></img>
+</div>
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
@@ -27,11 +30,6 @@
 </p>
 
 
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/m-kmail/count.svg"></img>
-</div>
 
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
