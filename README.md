@@ -36,7 +36,7 @@
 <p align="center">
   <a href = "mailto:kmailmohammad09@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/m-kmail-2ba7361b7/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
-  <a href = "https://codeforces.com/profile/M_kmail"><img src = "[https://res.cloudinary.com/practicaldev/image/fetch/s--mzwvoucO--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cer3l19eex0wy900b101.jpg](https://assets.codeforces.com/users/kguseva/comments/cf.png)" height = 30 width = 100 backgroundcolor=white></a>
+  <a href = "https://codeforces.com/profile/M_kmail"><img src = "https://assets.codeforces.com/users/kguseva/comments/cf.png" height = 30 width = 100 backgroundcolor=white></a>
 </p>
 
 
